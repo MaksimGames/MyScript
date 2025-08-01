@@ -6,7 +6,7 @@ local Window = Rayfield:CreateWindow({
    LoadingTitle = "Bed Hub",
    LoadingSubtitle = "by Sirius",
    ShowText = "Open", -- for mobile users to unhide rayfield, change if you'd like
-   Theme = "Default", -- Check https://docs.sirius.menu/rayfield/configuration/themes
+   Theme = "Ocean", -- Check https://docs.sirius.menu/rayfield/configuration/themes
 
    ToggleUIKeybind = "Q", -- The keybind to toggle the UI visibility (string like "K" or Enum.KeyCode)
 
